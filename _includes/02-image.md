@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Sed picture](https://www.tama.com/images/index/mainSlide/top_SC_Performer_sp.jpg)
